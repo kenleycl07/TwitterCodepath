@@ -18,6 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+![TwitterCodepath](https://user-images.githubusercontent.com/78169956/142037593-48019bc6-e9c2-46b4-acc1-c5effb7c6613.gif)
 
 GIF created with [ScreenToGif](https://www.screentogif.com/).
 
