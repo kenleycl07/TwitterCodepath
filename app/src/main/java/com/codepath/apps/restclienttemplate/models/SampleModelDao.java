@@ -20,5 +20,5 @@ public interface SampleModelDao {
     List<SampleModel> recentItems();
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
-    void insertModel(SampleModel... sampleModels);
+   void insertModel(SampleModel... sampleModels);
 }
